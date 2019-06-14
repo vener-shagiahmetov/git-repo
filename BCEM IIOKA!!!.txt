@@ -1,0 +1,2 @@
+print("Vsem bye!");
+print("bye bye!!!");
