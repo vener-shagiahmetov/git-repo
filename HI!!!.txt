@@ -1,0 +1,2 @@
+print("Hauwku!!!");
+print("Nu norm,4e");
