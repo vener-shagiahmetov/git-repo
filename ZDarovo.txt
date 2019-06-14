@@ -1,2 +1,2 @@
 print("Zdarovo!!!");
-print("Kak ono?");
+print("Kak ono???");
