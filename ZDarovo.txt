@@ -2,4 +2,4 @@ print("Zdarovo!!!");
 print("Kak ono???");
 print("Kak family???");
 print('Kak children???');
-print("Kak ono???");
+print("Kakrovno???");
